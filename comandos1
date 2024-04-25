@@ -5,8 +5,8 @@ cd soymas
 mkdir carreras
 cd carreras 
 cd ..
-mkdir administración
-cd administración
+mkdir administracion
+cd administracion
  mkdir modulo-00
 cd modulo-00
 touch index.md 
@@ -23,8 +23,8 @@ cd artes-culinarias
 touch lista.txt
 cd lista.txt
 cd ..
-mkdir programación
-cd programación
+mkdir programacion
+cd programacion
 mkdir modulo-00
 cd modulo-00
 touch index.md
