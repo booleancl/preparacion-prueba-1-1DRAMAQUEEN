@@ -6,7 +6,6 @@ cd academia
 rm lista.txt
 rm pendientes.txt
 cd ..
-cd soymas 
 rmdir academia
 
 
