@@ -2,5 +2,39 @@
 
 # Agregar las instrucciones para crear la estructura de carpetas
 cd soymas
+mkdir carreras
+cd carreras 
+cd ..
+mkdir administración
+cd administración
+ mkdir modulo-00
+cd modulo-00
+touch index.md 
+cd index.md
+cd ..
+mkdir modulo-01
+cd modulo-01
+touch index.md
+cd index.md
+cd ..
+cd ..
+mkdir artes-culinarias 
+cd artes-culinarias
+touch lista.txt
+cd lista.txt
+cd ..
+mkdir programación
+cd programación
+mkdir modulo-00
+cd modulo-00
+touch index.md
+cd index.md 
+cd ..
+mkdir modulo-01
+cd modulo-01
+touch index.md
+cd index.md
+cd ..
+
 
 
