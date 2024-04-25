@@ -3,8 +3,7 @@
 # Agregar las instrucciones para crear la estructura de carpetas
 cd soymas
 mkdir carreras
-cd carreras 
-cd ..
+cd carreras
 mkdir administracion
 cd administracion
  mkdir modulo-00
